@@ -1,0 +1,14 @@
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.exe
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.deps.json
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+C:\Users\robpr\desktop\DigitalInnovationOne\01-ESTRUTURADOPROGRAMA\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.genruntimeconfig.cache
