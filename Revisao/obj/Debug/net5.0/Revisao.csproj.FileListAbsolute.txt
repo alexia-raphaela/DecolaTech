@@ -1,0 +1,16 @@
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\robpr\desktop\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
