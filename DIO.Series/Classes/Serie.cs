@@ -1,4 +1,6 @@
-namespace DIO.Series.Classes
+using System;
+
+namespace DIO.Series
 {
     public class Serie : EntidadeBase
     {
@@ -12,35 +14,49 @@ namespace DIO.Series.Classes
         
         private int Ano { get; set; }
 
+
+        // ira verificar se aquele meu registro esta excluido ou não
+        private bool Excluido {get; set; }
+
         // Métodos
 
-        public Series(int: id, Genero genero, string titulo, string descricao, int ano)
+        public Serie(int id, Genero genero, string titulo, string descricao, int ano)
         {
             this.Id = id;
             this.Genero = genero;
             this.Titulo = titulo;
             this.Descricao = descricao;
             this.Ano = ano;
+            this.Excluido = false;
         }
 
         public override string ToString()
         {
             string retorno = "";
-            retorno += "Gênero: " + this.Genero + Enviroment.NewLine;
-            retorno += "Título: " + this.Titulo + Enviroment.Newline;
-            retorno += "Descrição: " + this.Descricao + Enviroment.Newline;
-            retorno += "Ano de Início: " + this.Ano + Enviroment.Newline;
-            return retorno
+            retorno += "Gênero: " + this.Genero + Environment.NewLine;
+            retorno += "Título: " + this.Titulo + Environment.NewLine;
+            retorno += "Descrição: " + this.Descricao + Environment.NewLine;
+            retorno += "Ano de Início: " + this.Ano + Environment.NewLine;
+            retorno += "Excluido: " + this.Excluido;
+            return retorno;
         }
 
-        public string retornoTitulo()
+        public string retornaTitulo()
         {
-            return this.Título;
+            return this.Titulo;
         }
         
         public int retornaId()
         {
             return this.Id;
+        }
+        public bool retornaExcluido()
+        {
+            return this.Excluido;
+        }
+
+        public void Excluir() {
+            this.Excluido = true;
         }
     }
 }
